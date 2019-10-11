@@ -34,14 +34,14 @@ function createGcsService(config: GoogleStorageProviderOptions) {
     content: null,
     format: null
   });
-  const isNotebook = s3data => s3data.Key && s3data.Key.endsWith("ipynb");
+  const isNotebook = data => data.name && data.name.endsWith("ipynb");
   const fileObject = data => ({
     name: fileName(data.name),
     path: filePath(data.name),
     type: isNotebook(data) ? "notebook" : "file",
     writable: true,
-    created: null,
-    last_modified: data.LastModified,
+    created: data.metadata.timeCreated,
+    last_modified: data.metadata.updated,
     mimetype: null,
     content: null,
     format: null
