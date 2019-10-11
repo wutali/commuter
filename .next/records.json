@@ -22,18 +22,23 @@
       "static/HdkO1tfl7ijquOox_WLOF/pages/discover.js": 4,
       "static/HdkO1tfl7ijquOox_WLOF/pages/index.js": 5,
       "static/HdkO1tfl7ijquOox_WLOF/pages/view.js": 6,
-      "static/runtime/main.js": 7
+      "static/runtime/main.js": 7,
+      "static/QWv3BuM-vS6bS-Cn-M0B5/pages/_app.js": 8,
+      "static/QWv3BuM-vS6bS-Cn-M0B5/pages/_error.js": 9,
+      "static/QWv3BuM-vS6bS-Cn-M0B5/pages/discover.js": 10,
+      "static/QWv3BuM-vS6bS-Cn-M0B5/pages/index.js": 11,
+      "static/QWv3BuM-vS6bS-Cn-M0B5/pages/view.js": 12
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7
+      10,
+      11,
+      12,
+      7,
+      8,
+      9
     ]
   }
 }
