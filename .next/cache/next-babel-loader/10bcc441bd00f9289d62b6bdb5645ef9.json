@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { ajax } from \"rxjs/ajax\";\nexport function getJSON(url) {\n  return ajax({\n    url: url,\n    responseType: \"json\",\n    createXHR: function createXHR() {\n      return new XMLHttpRequest();\n    }\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

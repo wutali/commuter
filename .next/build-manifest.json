@@ -1,0 +1,35 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.c2decd4c4c68aaeb118b.js",
+      "static/runtime/main-0878c22ebb01101b0476.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.c2decd4c4c68aaeb118b.js",
+      "static/runtime/main-0878c22ebb01101b0476.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.c2decd4c4c68aaeb118b.js",
+      "static/runtime/main-0878c22ebb01101b0476.js"
+    ],
+    "/discover": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.c2decd4c4c68aaeb118b.js",
+      "static/runtime/main-0878c22ebb01101b0476.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.c2decd4c4c68aaeb118b.js",
+      "static/runtime/main-0878c22ebb01101b0476.js"
+    ],
+    "/view": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.c2decd4c4c68aaeb118b.js",
+      "static/runtime/main-0878c22ebb01101b0476.js"
+    ]
+  }
+}

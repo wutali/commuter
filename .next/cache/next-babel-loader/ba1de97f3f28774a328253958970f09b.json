@@ -1,0 +1,1 @@
+{"ast":null,"code":"import * as React from \"react\";\n\nvar Body = function Body(props) {\n  return props.children;\n};\n\nexport default Body;","map":null,"metadata":{},"sourceType":"module"}

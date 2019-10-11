@@ -1,0 +1,39 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "ignored node_modules/datalib/src/import url": 0,
+      "ignored node_modules/datalib/src/import fs": 1,
+      "ignored node_modules/datalib/src/import sync-request": 2,
+      "ignored node_modules/datalib/src/import request": 3
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/HdkO1tfl7ijquOox_WLOF/pages/_app.js": 2,
+      "static/HdkO1tfl7ijquOox_WLOF/pages/_error.js": 3,
+      "static/HdkO1tfl7ijquOox_WLOF/pages/discover.js": 4,
+      "static/HdkO1tfl7ijquOox_WLOF/pages/index.js": 5,
+      "static/HdkO1tfl7ijquOox_WLOF/pages/view.js": 6,
+      "static/runtime/main.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}
